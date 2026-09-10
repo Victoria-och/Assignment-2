@@ -1,2 +1,2 @@
-# Assignment-2
+# assignment-2
 Devops Engineering Assignment
